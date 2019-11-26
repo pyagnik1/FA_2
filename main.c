@@ -11,6 +11,9 @@ struct string_node{
 
 
 
+
+
+
 int main(void) {
 
 	int N,S,D;
